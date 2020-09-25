@@ -8,15 +8,14 @@ Este ejercicio es personal, no pidan ayuda a sus compañeros. Siéntanse libres 
 
 Pueden ayudarse de cualquiera de los siguientes recursos:
 
-* Cualquier nota o apunte que hayan tomado.
-* Los ejercicio que hayamos hecho antes.
-* Los repositorios en GitHub con toda la teoría.
-* Las 'slides' que hayamos pasado de las clases.
+- Cualquier nota o apunte que hayan tomado.
+- Las 'slides' que hayamos pasado de las clases.
+- Documentación o ayudas que puedan encontrar online.
 
 ## ¿Que estamos testeando?
 
-* Arquitectura de aplicaciones con Express 
-* Ruteos con Express
+- Arquitectura de aplicaciones con Express
+- Ruteos con Express
 
 ## Para empezar
 
@@ -26,7 +25,7 @@ Pueden ayudarse de cualquiera de los siguientes recursos:
 4. Podes correr `npm test` para ejecutar los test que quedaran activos y escuchando cambios.
 5. Revisen la estructura del proyecto, principalmente vamos a estar trabajando con `models/todos.js`, `routes/index.js`, y `app.js`.
 6. Empiecen a trabajar en base a los specs de `test/`. Cambien el `xit` por un `it` cuando el test este listo para correr.
-7. Hagan `git commit` a medida que van pasando los test 
+7. Hagan `git commit` a medida que van pasando los test
 
 Estos test incluyen [supertest](https://github.com/visionmedia/supertest).
 
