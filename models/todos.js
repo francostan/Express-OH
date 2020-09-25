@@ -1,4 +1,19 @@
-'use strict';
+"use strict";
+
+/*
+ * El objetivo es hacer un TO DO LIST:
+ *   vas a tener que agregarle tareas a distintas personas y
+ *   configurar propiedades de esas tareas.
+ *
+ *    (\
+ *    \'\
+ *     \'\     __________
+ *     / '|   ()_________)
+ *     \ '/    \ ~~~~~~~~ \
+ *      \       \ ~~~~~~   \
+ *      ==).      \__________\
+ *     (__)       ()__________)
+ */
 
 var tasks = {}; // acá vamos a guardar nuestras personas y tareas
 
@@ -12,6 +27,6 @@ module.exports = {
   },
   add: function (name, task) {
     // guarda una tarea para una persona en particular
-  }
+  },
   // etc.
 };
